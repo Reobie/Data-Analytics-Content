@@ -1,0 +1,47 @@
+﻿1. Attrition Breakdown
+
+Chart Type: Pie Chart or Donut Chart
+Purpose: Show the proportion of employees who have left the company versus those who stayed.
+Data: Use the Attrition column.
+
+2. Attrition by Department
+
+Chart Type: Bar Chart
+Purpose: Display attrition rates by department to identify areas with the highest turnover.
+Data: Group data by Department and calculate attrition percentages.
+
+3. Attrition by Age
+
+Chart Type:  Line Chart
+Purpose: Analyze age demographics of employees who have left compared to those who stayed.
+Data: Use the Age and Attrition columns.
+
+4. Job Satisfaction vs. Attrition
+
+Chart Type: Box Plot or Violin Plot
+Purpose: Show the distribution of job satisfaction among those who stayed and left.
+Data: Use JobSatisfaction and Attrition.
+
+5. Overtime vs. Attrition
+
+Chart Type: Stacked Bar Chart or Grouped Bar Chart
+Purpose: Compare the effect of working overtime on attrition.
+Data: Use the OverTime and Attrition columns.
+
+6. Monthly Income Distribution by Attrition
+
+Chart Type: Box Plot or Histogram
+Purpose: Analyze income distribution for employees who left versus those who stayed.
+Data: Use MonthlyIncome and Attrition.
+
+7. Attrition by Years at Company
+
+Chart Type: Line Chart or Bar Chart
+Purpose: Show the correlation between tenure and attrition.
+Data: Use YearsAtCompany and Attrition.
+
+8. Attrition by Distance from Home
+
+Chart Type: Scatter Plot or Bar Chart
+Purpose: Explore the relationship between commuting distance and attrition.
+Data: Use DistanceFromHome and Attrition.
